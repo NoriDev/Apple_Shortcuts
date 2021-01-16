@@ -1,5 +1,6 @@
 # BattLog
 iOS / iPadOS의 단축어 자동화를 통해 배터리 기록 추적이 가능합니다.
+>이 단축어를 사용하기 위해서는 [단축어](https://apps.apple.com/app/id915249334) 앱이 필요합니다.
 
 <br/>
 
