@@ -26,6 +26,6 @@ ___
 <br/>
 
 [Charging](https://www.icloud.com/shortcuts/bc201d70c43d45b1bcb8bcf454688a73) - *100% 충전*  
-[Charged](https://www.icloud.com/shortcuts/bc201d70c43d45b1bcb8bcf454688a73) - *전원 연결*  
+[Charged](https://www.icloud.com/shortcuts/b466074375984700b416c2a1c6560813) - *전원 연결*  
 [Discharging](https://www.icloud.com/shortcuts/29c4c2ad78c841f1ba210ef33cb0d0b8) - *전원 연결 해제*
 ___
