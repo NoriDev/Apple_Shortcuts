@@ -20,13 +20,13 @@ iOS / iPadOS의 단축어 자동화를 통해 배터리 기록 추적이 가능�
 ## **다운로드**
 단축어를 업데이트 하는 경우, 기존 단축어에 **대치**하여 주십시오.
 ___
-#### v1.0-RC
+#### v1.0-RC (202101180005)
 ###### 릴리즈 노트
     - 최초 릴리즈
 
 <br/>
 
-[Charging](https://www.icloud.com/shortcuts/bc201d70c43d45b1bcb8bcf454688a73) - *100% 충전*  
-[Charged](https://www.icloud.com/shortcuts/b466074375984700b416c2a1c6560813) - *전원 연결*  
-[Discharging](https://www.icloud.com/shortcuts/29c4c2ad78c841f1ba210ef33cb0d0b8) - *전원 연결 해제*
+[Charging](https://www.icloud.com/shortcuts/ff4d347de5c0433f8ce01116ece49c8e) - *100% 충전*  
+[Charged](https://www.icloud.com/shortcuts/20e02f1164804161a22e9b59bd9720b8) - *전원 연결*  
+[Discharging](https://www.icloud.com/shortcuts/bed15529c4f84c1daef8bb68621becbd) - *전원 연결 해제*
 ___
